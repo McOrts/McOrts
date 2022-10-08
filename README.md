@@ -1,4 +1,5 @@
 👋 Hi, Carlos Orts (AKA McOrts)
+<img src="https://github.com/McOrts/LoRa_gateway/blob/master/RAK831/McOrts_TTN_gateway_RAK831_p2.jpg" width="300" align="right" />
 
 [![Twitter: kesarito](https://img.shields.io/twitter/follow/mcorts?style=social)](https://twitter.com/mcorts)
 [![Linkedin: mcorts](https://img.shields.io/badge/-mcorts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mcorts/)](https://www.linkedin.com/in/mcorts/)
